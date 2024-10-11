@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgb(75, 71, 71);
+    color: white;
+}
+
+.counter__container
+{
+    margin: 2rem;
+    
+}
+
+.btn
+{
+    width: 50px;
+    height: 20px;
+}
+
+li
+{
+    list-style: none;
+    margin-bottom: 1rem;
+}
+input
+{
+    margin: 2rem;
+    color: green;
+    size: 12px;
+    height: 20px;
+}
+
+/*rem = 16 px */
+/* 2rem = 2 * 16px */
